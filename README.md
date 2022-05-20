@@ -6,3 +6,7 @@
 ![123123](https://user-images.githubusercontent.com/105896854/169466277-a0be7eaa-d83b-4093-b1fc-c43943f62cac.png)
 ![456456](https://user-images.githubusercontent.com/105896854/169466286-f4cb3d1e-65a5-4d22-8eb3-3ca638565aba.png)
 ![789789](https://user-images.githubusercontent.com/105896854/169466287-361948eb-392c-4cca-8f0d-d0330b6619f1.png)
+
+![Root](https://user-images.githubusercontent.com/105896854/169467119-37d96b35-617b-48ed-97be-4d9d54104aaa.PNG)
+![Servlet](https://user-images.githubusercontent.com/105896854/169467123-6acd1262-b197-4b39-8aad-19f4e9247a88.PNG)
+![URLmapping](https://user-images.githubusercontent.com/105896854/169467125-2e5e92b5-3389-4b48-8c7e-17f75c555c83.PNG)
